@@ -22,3 +22,5 @@ CONTRIBUTIONS:
 LICENSE:
 
 CREDITS:
+"Jollof Rice with Stew" by Noahlorwu is licensed by CC BY-SA 4.0
+Source: <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
