@@ -27,3 +27,5 @@ Source: <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
 "cyclonebill from Copenhagen, Denmark" licensed by CC BY-SA 2.0
 Source: <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
+
+"Chocolate-dessert-brownies-cake" licensed by www.Pixel.la Free Stock Photos, CC0, via Wikimedia Commons
