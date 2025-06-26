@@ -24,3 +24,6 @@ LICENSE:
 CREDITS:
 "Jollof Rice with Stew" by Noahlorwu is licensed by CC BY-SA 4.0
 Source: <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+
+"cyclonebill from Copenhagen, Denmark" licensed by CC BY-SA 2.0
+Source: <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
