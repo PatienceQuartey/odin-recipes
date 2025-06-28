@@ -1,0 +1,82 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    /* border: 2px solid red; */
+    margin-top: 40px;
+    background-color: rgb(255, 216, 216);
+}
+
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-style: oblique;
+    font-family: "Pacifico", sans-serif;
+    color: rgb(205, 101, 237);
+}
+
+
+.recipe-container{
+
+    /* border: 2px solid black; */
+    margin-bottom: 50px;
+}
+
+
+.the-recipe-link{
+    border: 5px solid salmon;
+    display: inline-block;
+    align-content: center;
+    width: 300px;
+    height: 300px;
+    margin: 100px;
+    border-top-right-radius: 50%;
+    text-align: center;
+    
+}
+
+
+h2{
+
+    font-family:"Meow Script", cursive;
+
+}
+
+p{
+    font-family: "Delius Swash Caps", cursive;
+
+}
+
+img{
+    border-radius: 60%;
+    width: 40%;
+
+}
+
+.ret-to-hmpge{
+    /* border: 5px solid black; */
+    font-family: Tahoma, sans-serif;
+    padding: 25px;
+}
+
+figure{
+    padding-top: 10px;
+    text-align: center;
+
+
+}
+
+.recipe-font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    padding-left: 100px;
+}
+
+.fig-font{
+    font-family: "Franklin Gothic", sans-serif;
+}
+
